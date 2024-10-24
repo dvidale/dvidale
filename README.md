@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Shortlisted: A direct referral network for TV & Film editors and assistant editors.](www.github.com/dvidale/shortlisted)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Selenium**
 
 - 👯 I’m looking to collaborate on **projects that support the TV & Film community.**
 
