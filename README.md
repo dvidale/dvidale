@@ -1,15 +1,15 @@
 <h1 align="center">Hi, 👋🏽 I'm DeAndré</h1>
 <h3 align="center">A full stack developer with a background in television & film editing.</h3>
 
-- 🔭 I’m currently working on [Shortlisted: A direct referral network for TV & Film editors and assistant editors.](www.github.com/dvidale/shortlisted)
+- 🔭 I’m currently working on <a href="https://www.github.com/dvidale/shortlisted" >Shortlisted: A direct referral network for TV & Film editors and assistant editors. </a> 
 
 - 🌱 I’m currently learning **React Email x Amazon SES**
 
 - 👯 I’m looking to collaborate on **projects that support the TV & Film community.**
 
-- 👨‍💻 All of my projects are available at [www.deandrevidale.com](www.deandrevidale.com)
+- 👨‍💻 All of my projects are available at [www.deandrevidale.com](https://www.deandrevidale.com)
 
-- 📫 How to reach me **deandre.vidale@gmail.com**
+- 📫 How to reach me **deandre.vidale @ gmail dot com**
 
 - ⚡ **My newest bucketlist goal is a weekend camping and coding under the stars ✨.**
 
